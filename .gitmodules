@@ -3,3 +3,15 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "asymptor"]
+	path = asymptor
+	url = https://github.com/bisaloo/asymptor
+	shallow = true
+[submodule "contactdata"]
+	path = contactdata
+	url = https://github.com/bisaloo/contactdata
+	shallow = true
+[submodule "mcmcensemble"]
+	path = mcmcensemble
+	url = https://github.com/bisaloo/mcmcensemble
+	shallow = true
