@@ -11,6 +11,10 @@
 	path = contactdata
 	url = https://github.com/bisaloo/contactdata
 	shallow = true
+[submodule "fundiversity"]
+	path = fundiversity
+	url = https://github.com/bisaloo/fundiversity
+	shallow = true
 [submodule "mcmcensemble"]
 	path = mcmcensemble
 	url = https://github.com/bisaloo/mcmcensemble
