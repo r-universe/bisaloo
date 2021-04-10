@@ -7,15 +7,19 @@
 	path = asymptor
 	url = https://github.com/bisaloo/asymptor
 	shallow = true
+	registered = true
 [submodule "contactdata"]
 	path = contactdata
 	url = https://github.com/bisaloo/contactdata
 	shallow = true
+	registered = true
 [submodule "fundiversity"]
 	path = fundiversity
 	url = https://github.com/bisaloo/fundiversity
 	shallow = true
+	registered = true
 [submodule "mcmcensemble"]
 	path = mcmcensemble
 	url = https://github.com/bisaloo/mcmcensemble
 	shallow = true
+	registered = true
