@@ -1,0 +1,18 @@
+[
+  {
+    "package": "asymptor",
+    "oncran": true
+  },
+  {
+    "package": "contactdata",
+    "oncran": true
+  },
+  {
+    "package": "fundiversity",
+    "oncran": true
+  },
+  {
+    "package": "mcmcensemble",
+    "oncran": true
+  }
+]
