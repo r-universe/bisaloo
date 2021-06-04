@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/bisaloo/universe
 	shallow = true
 	branch = HEAD
 [submodule "asymptor"]
@@ -21,5 +21,20 @@
 [submodule "mcmcensemble"]
 	path = mcmcensemble
 	url = https://github.com/bisaloo/mcmcensemble
+	shallow = true
+	registered = true
+[submodule "semaforos"]
+	path = semaforos
+	url = https://github.com/bisaloo/semaforos
+	shallow = true
+	registered = true
+[submodule "lightr"]
+	path = lightr
+	url = https://github.com/ropensci/lightr
+	shallow = true
+	registered = true
+[submodule "rromeo"]
+	path = rromeo
+	url = https://github.com/ropensci/rromeo
 	shallow = true
 	registered = true

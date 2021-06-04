@@ -14,5 +14,16 @@
   {
     "package": "mcmcensemble",
     "oncran": true
+  },
+  {
+    "package": "semaforos"
+  },
+  {
+    "package": "lightr",
+    "oncran": true
+  },
+  {
+    "package": "rromeo",
+    "oncran": true
   }
 ]
