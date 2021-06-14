@@ -23,6 +23,11 @@
 	url = https://github.com/bisaloo/mcmcensemble
 	shallow = true
 	registered = true
+[submodule "simpleMH"]
+	path = simpleMH
+	url = https://github.com/bisaloo/simpleMH
+	shallow = true
+	registered = true
 [submodule "semaforos"]
 	path = semaforos
 	url = https://github.com/bisaloo/semaforos

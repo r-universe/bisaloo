@@ -16,6 +16,10 @@
     "oncran": true
   },
   {
+    "package": "simpleMH",
+    "oncran": false
+  },
+  {
     "package": "semaforos"
   },
   {
