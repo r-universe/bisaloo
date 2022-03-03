@@ -48,3 +48,8 @@
 	url = https://github.com/rmaia/pavo
 	shallow = true
 	registered = true
+[submodule "cransays"]
+	path = cransays
+	url = https://github.com/r-hub/cransays
+	shallow = true
+	registered = true
