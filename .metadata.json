@@ -28,7 +28,7 @@
   },
   {
     "package": "rromeo",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "pavo",
