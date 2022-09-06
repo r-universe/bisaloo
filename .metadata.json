@@ -9,7 +9,7 @@
   },
   {
     "package": "fundiversity",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "mcmcensemble",
