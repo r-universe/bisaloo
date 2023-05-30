@@ -38,11 +38,6 @@
 	url = https://github.com/ropensci/lightr
 	shallow = true
 	registered = true
-[submodule "rromeo"]
-	path = rromeo
-	url = https://github.com/ropensci/rromeo
-	shallow = true
-	registered = true
 [submodule "pavo"]
 	path = pavo
 	url = https://github.com/rmaia/pavo
