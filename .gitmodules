@@ -8,27 +8,27 @@
 [submodule "contactdata"]
 	path = contactdata
 	url = https://github.com/bisaloo/contactdata
-[submodule "fundiversity"]
-	path = fundiversity
-	url = https://github.com/bisaloo/fundiversity
-[submodule "mcmcensemble"]
-	path = mcmcensemble
-	url = https://github.com/bisaloo/mcmcensemble
-[submodule "simpleMH"]
-	path = simpleMH
-	url = https://github.com/bisaloo/simpleMH
-[submodule "semaforos"]
-	path = semaforos
-	url = https://github.com/bisaloo/semaforos
-[submodule "lightr"]
-	path = lightr
-	url = https://github.com/ropensci/lightr
-[submodule "pavo"]
-	path = pavo
-	url = https://github.com/rmaia/pavo
 [submodule "cransays"]
 	path = cransays
 	url = https://github.com/r-hub/cransays
+[submodule "fundiversity"]
+	path = fundiversity
+	url = https://github.com/bisaloo/fundiversity
+[submodule "lightr"]
+	path = lightr
+	url = https://github.com/ropensci/lightr
+[submodule "mcmcensemble"]
+	path = mcmcensemble
+	url = https://github.com/bisaloo/mcmcensemble
+[submodule "pavo"]
+	path = pavo
+	url = https://github.com/rmaia/pavo
+[submodule "semaforos"]
+	path = semaforos
+	url = https://github.com/bisaloo/semaforos
+[submodule "simpleMH"]
+	path = simpleMH
+	url = https://github.com/bisaloo/simpleMH
 [submodule "xlcutter"]
 	path = xlcutter
 	url = https://github.com/Bisaloo/xlcutter
