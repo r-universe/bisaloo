@@ -6,5 +6,5 @@
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["asymptor", "contactdata", "mcmcensemble", "semaforos", "simpleMH", "universe"]
+  "repositories": ["contactdata", "asymptor", "mcmcensemble", "simpleMH", "semaforos", "universe"]
 }
