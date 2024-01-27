@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/bisaloo/universe
+	url = https://github.com/bisaloo/bisaloo.r-universe.dev
 	branch = HEAD
 [submodule "asymptor"]
 	path = asymptor
