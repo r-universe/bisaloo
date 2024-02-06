@@ -13,7 +13,7 @@
 	url = https://github.com/r-hub/cransays
 [submodule "fundiversity"]
 	path = fundiversity
-	url = https://github.com/bisaloo/fundiversity
+	url = https://github.com/funecology/fundiversity
 [submodule "lightr"]
 	path = lightr
 	url = https://github.com/ropensci/lightr
