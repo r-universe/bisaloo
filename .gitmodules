@@ -17,6 +17,9 @@
 [submodule "lightr"]
 	path = lightr
 	url = https://github.com/ropensci/lightr
+[submodule "linelist"]
+	path = linelist
+	url = https://github.com/epiverse-trace/linelist
 [submodule "mcmcensemble"]
 	path = mcmcensemble
 	url = https://github.com/bisaloo/mcmcensemble
