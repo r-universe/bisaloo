@@ -5,6 +5,9 @@
 [submodule "asymptor"]
 	path = asymptor
 	url = https://github.com/bisaloo/asymptor
+[submodule "authoritative"]
+	path = authoritative
+	url = https://github.com/epiverse-connect/authoritative
 [submodule "contactdata"]
 	path = contactdata
 	url = https://github.com/bisaloo/contactdata
