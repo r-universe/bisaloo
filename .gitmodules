@@ -14,6 +14,9 @@
 [submodule "cransays"]
 	path = cransays
 	url = https://github.com/r-hub/cransays
+[submodule "epinowcast"]
+	path = epinowcast
+	url = https://github.com/epinowcast/epinowcast
 [submodule "fundiversity"]
 	path = fundiversity
 	url = https://github.com/funecology/fundiversity
@@ -29,6 +32,9 @@
 [submodule "pavo"]
 	path = pavo
 	url = https://github.com/rmaia/pavo
+[submodule "scoringutils"]
+	path = scoringutils
+	url = https://github.com/epiforecasts/scoringutils
 [submodule "semaforos"]
 	path = semaforos
 	url = https://github.com/bisaloo/semaforos
