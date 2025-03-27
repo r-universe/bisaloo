@@ -29,6 +29,9 @@
 [submodule "mcmcensemble"]
 	path = mcmcensemble
 	url = https://github.com/bisaloo/mcmcensemble
+[submodule "numberize"]
+	path = numberize
+	url = https://github.com/epiverse-trace/numberize
 [submodule "pavo"]
 	path = pavo
 	url = https://github.com/rmaia/pavo
@@ -41,6 +44,9 @@
 [submodule "simpleMH"]
 	path = simpleMH
 	url = https://github.com/bisaloo/simpleMH
+[submodule "socialmixr"]
+	path = socialmixr
+	url = https://github.com/epiforecasts/socialmixr
 [submodule "xlcutter"]
 	path = xlcutter
 	url = https://github.com/Bisaloo/xlcutter
