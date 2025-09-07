@@ -2,12 +2,9 @@
 	path = .registry
 	url = https://github.com/bisaloo/bisaloo.r-universe.dev
 	branch = HEAD
-[submodule "asymptor"]
-	path = asymptor
-	url = https://github.com/bisaloo/asymptor
 [submodule "authoritative"]
 	path = authoritative
-	url = https://github.com/epiverse-connect/authoritative
+	url = https://github.com/Bisaloo/authoritative
 [submodule "contactdata"]
 	path = contactdata
 	url = https://github.com/bisaloo/contactdata
@@ -35,6 +32,9 @@
 [submodule "pavo"]
 	path = pavo
 	url = https://github.com/rmaia/pavo
+[submodule "pkgicon"]
+	path = pkgicon
+	url = https://github.com/Bisaloo/pkgicon
 [submodule "scoringutils"]
 	path = scoringutils
 	url = https://github.com/epiforecasts/scoringutils
