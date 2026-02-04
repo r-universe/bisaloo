@@ -2,12 +2,15 @@
 	path = .registry
 	url = https://github.com/bisaloo/bisaloo.r-universe.dev
 	branch = HEAD
+[submodule "Rarr"]
+	path = Rarr
+	url = https://github.com/Huber-group-EMBL/Rarr
 [submodule "authoritative"]
 	path = authoritative
 	url = https://github.com/Bisaloo/authoritative
 [submodule "contactdata"]
 	path = contactdata
-	url = https://github.com/bisaloo/contactdata
+	url = https://github.com/socialcontactdata/contactdata
 [submodule "cransays"]
 	path = cransays
 	url = https://github.com/r-hub/cransays
@@ -43,10 +46,10 @@
 	url = https://github.com/bisaloo/semaforos
 [submodule "simpleMH"]
 	path = simpleMH
-	url = https://github.com/bisaloo/simpleMH
+	url = https://codeberg.org/Bisaloo/simpleMH
 [submodule "socialmixr"]
 	path = socialmixr
 	url = https://github.com/epiforecasts/socialmixr
 [submodule "xlcutter"]
 	path = xlcutter
-	url = https://github.com/Bisaloo/xlcutter
+	url = https://codeberg.org/Bisaloo/xlcutter
