@@ -44,6 +44,9 @@
 [submodule "semaforos"]
 	path = semaforos
 	url = https://github.com/bisaloo/semaforos
+[submodule "sessioinfo2renv"]
+	path = sessioinfo2renv
+	url = https://codeberg.org/Bisaloo/sessioninfo2renv
 [submodule "simpleMH"]
 	path = simpleMH
 	url = https://codeberg.org/Bisaloo/simpleMH
