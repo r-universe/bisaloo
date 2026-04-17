@@ -5,15 +5,15 @@
 [submodule "Rarr"]
 	path = Rarr
 	url = https://github.com/Huber-group-EMBL/Rarr
+[submodule "ZarrArray"]
+	path = ZarrArray
+	url = https://github.com/Bioconductor/ZarrArray
 [submodule "authoritative"]
 	path = authoritative
 	url = https://github.com/Bisaloo/authoritative
 [submodule "contactdata"]
 	path = contactdata
 	url = https://github.com/socialcontactdata/contactdata
-[submodule "cransays"]
-	path = cransays
-	url = https://github.com/r-hub/cransays
 [submodule "epinowcast"]
 	path = epinowcast
 	url = https://github.com/epinowcast/epinowcast
@@ -38,6 +38,12 @@
 [submodule "pkgicon"]
 	path = pkgicon
 	url = https://github.com/Bisaloo/pkgicon
+[submodule "remart"]
+	path = remart
+	url = https://github.com/Huber-group-EMBL/remart
+[submodule "rome"]
+	path = rome
+	url = https://github.com/Huber-group-EMBL/rome
 [submodule "scoringutils"]
 	path = scoringutils
 	url = https://github.com/epiforecasts/scoringutils
