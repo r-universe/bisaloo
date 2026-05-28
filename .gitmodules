@@ -20,6 +20,9 @@
 [submodule "fundiversity"]
 	path = fundiversity
 	url = https://github.com/funecology/fundiversity
+[submodule "grumpy"]
+	path = grumpy
+	url = https://github.com/bisaloo/grumpy
 [submodule "lightr"]
 	path = lightr
 	url = https://github.com/ropensci/lightr
