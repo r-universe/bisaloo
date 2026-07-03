@@ -44,17 +44,17 @@
 [submodule "remart"]
 	path = remart
 	url = https://github.com/Huber-group-EMBL/remart
-[submodule "rome"]
-	path = rome
-	url = https://github.com/Huber-group-EMBL/rome
+[submodule "romeo"]
+	path = romeo
+	url = https://github.com/Huber-group-EMBL/romeo
 [submodule "scoringutils"]
 	path = scoringutils
 	url = https://github.com/epiforecasts/scoringutils
 [submodule "semaforos"]
 	path = semaforos
 	url = https://github.com/bisaloo/semaforos
-[submodule "sessioinfo2renv"]
-	path = sessioinfo2renv
+[submodule "sessioninfo2renv"]
+	path = sessioninfo2renv
 	url = https://codeberg.org/Bisaloo/sessioninfo2renv
 [submodule "simpleMH"]
 	path = simpleMH
