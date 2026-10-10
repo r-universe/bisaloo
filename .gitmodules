@@ -5,6 +5,9 @@
 [submodule "Rarr"]
 	path = Rarr
 	url = https://github.com/Huber-group-EMBL/Rarr
+[submodule "SpatialData.plot"]
+	path = SpatialData.plot
+	url = https://github.com/HelenaLC/SpatialData.plot
 [submodule "ZarrArray"]
 	path = ZarrArray
 	url = https://github.com/Bioconductor/ZarrArray
@@ -62,6 +65,9 @@
 [submodule "socialmixr"]
 	path = socialmixr
 	url = https://github.com/epiforecasts/socialmixr
+[submodule "spatialdataR"]
+	path = spatialdataR
+	url = https://github.com/HelenaLC/spatialdataR
 [submodule "xlcutter"]
 	path = xlcutter
 	url = https://codeberg.org/Bisaloo/xlcutter
